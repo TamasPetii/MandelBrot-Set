@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\MandelBrot-Fractal\Source.cpp(15,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\MandelBrot-Fractal\Source.cpp(15,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\MandelBrot-Fractal\Source.cpp(16,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\MandelBrot-Fractal\Source.cpp(16,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\MandelBrot-Fractal\Source.cpp(26,88): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\MandelBrot-Fractal\Source.cpp(26,63): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\MandelBrot-Fractal\Source.cpp(26,38): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+  MandelBrot-Fractal.vcxproj -> C:\Users\TP\OneDrive - Eotvos Lorand Tudomanyegyetem\Projects\MandelBort Fractal - SDL\Visual Studio 2022 Version\x64\Debug\MandelBrot-Fractal.exe
